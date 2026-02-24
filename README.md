@@ -10,7 +10,7 @@
   <sub><i>Available for any project · Available now for mobile</i></sub>
 </p>
 
-<br/>
+<br>
 
 ---
 
@@ -52,7 +52,7 @@ I'm **available for any project** and **available right now for mobile work**. I
 
 ---
 
-<br/>
+<br>
 
 ## <code>02</code> — Status
 
@@ -62,7 +62,7 @@ I'm **available for any project** and **available right now for mobile work**. I
   <a href="https://andassafanomezantsoa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/📱_Available_now-Mobile_Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile"/></a>
 </p>
 
-<br/>
+<br>
 
 ---
 
@@ -147,7 +147,7 @@ I'm **available for any project** and **available right now for mobile work**. I
 </tr>
 </table>
 
-<br/>
+<br>
 
 ---
 
@@ -180,50 +180,45 @@ I'm **available for any project** and **available right now for mobile work**. I
 </tr>
 </table>
 
-<br/>
+<br>
 
 ---
 
 ## <code>05</code> — GitHub
 
-<table>
-<tr>
-<td align="center" width="50%">
+<p align="center">
+  <strong>📊 Stats</strong>
+</p>
 
-**Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andassa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="420"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andassa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" width="100%"/>
+<p align="center">
+  <strong>📈 Top languages</strong>
+</p>
 
-</td>
-<td align="center" width="50%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andassa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="380"/>
+</p>
 
-**Top languages**
+<p align="center">
+  <strong>🔥 Streak</strong>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andassa&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Andassa&theme=radical&hide_border=true" alt="GitHub Streak" width="420"/>
+</p>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<p align="center">
+  <strong>📂 Top contributed repos</strong>
+</p>
 
-**Streak**
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Andassa&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top contributed repos" width="500"/>
+</p>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Andassa&theme=radical&hide_border=true" alt="Streak" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-**Top contributed repos**
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Andassa&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br>
 
 ---
 
@@ -244,7 +239,7 @@ I'm **available for any project** and **available right now for mobile work**. I
 
 </p>
 
-<br/>
+<br>
 
 ---
 
