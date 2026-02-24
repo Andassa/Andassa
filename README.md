@@ -243,8 +243,5 @@ I'm **available for any project** and **available right now for mobile work**. I
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Andassa&icon=0&color=0" alt="Visits"/></a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Made_with-❤️_Markdown-ff69b4?style=flat-square" alt="Made with love"/>
+
 </p>
