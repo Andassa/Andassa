@@ -1,23 +1,68 @@
 <div align="center">
 
-<img src="téléchargement.gif" alt="Welcome" width="120"/>  
+<table>
+<tr>
+<td width="50%">
 
-# 🚀 Andassa Mity
+<img src="téléchargement.gif" alt="Welcome" width="140"/>
 
-### *Fullstack · Flutter · Mobile · J'apprends vite, je m'adapte partout* 💻✨
+</td>
+<td width="50%">
 
-<img src="Andassa_image.jfif" alt="Andassa Mity" width="220" style="border-radius: 50%; object-fit: cover; border: 4px solid #6366f1; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.3);"/>
+# 👋 Salut, je suis **Andassa Mity**
+
+### *Développeur Fullstack & Mobile Flutter*
+*J'apprends vite · Je m'adapte · Toujours partant pour un défi* 🚀
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="Andassa_image.jfif" alt="Andassa Mity" width="200" style="border-radius: 50%;"/>
+
+<br/>
+<sub><b>✨ C'est moi</b></sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="téléchargement%20(1).gif" alt="Coding" width="100"/>
+
+<br/>
+<sub><i>En train de coder ta prochaine app</i> 😄</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
+### 🎯 Disponibilité
+
+<table>
+<tr>
+<td align="center">
+
+[![Disponible](https://img.shields.io/badge/🟢_Disponible_pour_tout_projet-OUI-22c55e?style=for-the-badge&labelColor=0d1117)](https://andassafanomezantsoa-portfolio.vercel.app/)
+
+</td>
+<td align="center">
+
+[![Mobile](https://img.shields.io/badge/📱_Disponible_maintenant-Projet_Mobile_Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117)](https://andassafanomezantsoa-portfolio.vercel.app/)
+
+</td>
+</tr>
+</table>
+
 <br/>
-
-[![Disponible pour projets](https://img.shields.io/badge/🟢_Disponible_pour_projets-OUI-22c55e?style=for-the-badge)](https://andassafanomezantsoa-portfolio.vercel.app/)
-[![Mobile Flutter](https://img.shields.io/badge/📱_Disponible_maintenant-Mobile_Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://andassafanomezantsoa-portfolio.vercel.app/)
-
-<br/>
-
-<img src="téléchargement%20(1).gif" alt="Coding" width="80"/>  
 
 ---
 
@@ -63,31 +108,93 @@
 
 `RAG` · `Web Scraping` · `N8N` · `Unreal Engine` · `Blueprint` · `E2E`
 
+<br/>
+
 ---
 
-## 🔗 Retrouve-moi partout
+## 🔗 Où me retrouver
+
+<table>
+<tr>
+<td align="center" width="25%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andassa-ramananandro)
+
+<br/><sub>Réseau pro</sub>
+
+</td>
+<td align="center" width="25%">
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/andassaramanana1)
+
+<br/><sub>Certifications</sub>
+
+</td>
+<td align="center" width="25%">
+
 [![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=black)](https://www.codingame.com/profile/TheMity)
+
+<br/><sub>@TheMity</sub>
+
+</td>
+<td align="center" width="25%">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andassafanomezantsoa-portfolio.vercel.app/)
+
+<br/><sub>Projets & CV</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub en bref
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andassa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andassa&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="350"/>
+<table>
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Andassa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" width="400"/>
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andassa&layout=compact&theme=radical&hide_border=true" alt="Langages" width="340"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
 ## 💬 Un projet en tête ?
 
-> **Disponible pour n'importe quel projet.**  
-> **Disponible tout de suite pour un projet mobile.** 📱
+<table>
+<tr>
+<td align="center">
 
-<img src="téléchargement.gif" alt="Let's go" width="100"/>  
+> **🟢 Disponible pour n'importe quel projet**  
+> **📱 Disponible tout de suite pour un projet mobile**
 
-*N'hésite pas à me contacter — on peut faire des trucs cools ensemble.* 🔥
+<br/>
+
+<img src="téléchargement.gif" alt="Let's go" width="90"/>
+
+<br/>
+
+*On peut faire des trucs cools ensemble — n'hésite pas à me contacter.* 🔥
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Made_with-❤️_&_Markdown-ff69b4?style=flat-square" alt="Made with love"/>
 
 </div>
