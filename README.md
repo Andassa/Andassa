@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="téléchargement.gif" alt="Welcome" width="120"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=420&lines=Andassa+Mity;Fullstack+%26+Mobile+Developer;I+ship.+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -231,7 +228,10 @@ I'm **available for any project** and **available right now for mobile work**. I
 
 <br/>
 
-<img src="téléchargement.gif" alt="Let's go" width="100"/>
+<p align="center">
+<img src="téléchargement.gif" alt="Let's go" width="500"/>
+</p>
+
 
 <br/>
 
