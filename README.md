@@ -7,9 +7,6 @@
 
 </div>
 
----
-
-## 🎯 Hero
 
 <table>
 <tr>
