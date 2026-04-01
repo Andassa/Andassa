@@ -15,7 +15,7 @@
 <tr>
 <td>
 
-## <code>01</code> — About
+## <code>01</code> About
 
 **Who I am**  
 I'm **Andassa** — a Fullstack and mobile developer who **ships**. I don't just write code; I turn ideas into products. Web apps, mobile apps, APIs, dashboards, automation, or AI-powered tools — I build them with you, end to end. From Flutter to Next.js, Express to FastAPI, MongoDB to PostgreSQL, Docker to AWS, I cover the full stack so you can focus on *what* to build, not *how*.
@@ -51,7 +51,7 @@ I'm **available for any project** and **available right now for mobile work**. I
 
 <br>
 
-## <code>02</code> — Status
+## <code>02</code> Status
 
 <p align="center">
   <a href="https://andassafanomezantsoa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🟢_Available_for_any_project-Yes-22c55e?style=for-the-badge" alt="Available"/></a>
@@ -63,7 +63,7 @@ I'm **available for any project** and **available right now for mobile work**. I
 
 ---
 
-## <code>03</code> — Skills
+## <code>03</code> Skills
 
 <table>
 <tr>
@@ -148,7 +148,7 @@ I'm **available for any project** and **available right now for mobile work**. I
 
 ---
 
-## <code>04</code> — Connect
+## <code>04</code> Connect
 
 <table>
 <tr>
@@ -181,10 +181,10 @@ I'm **available for any project** and **available right now for mobile work**. I
 
 ---
 
-## <code>05</code> — GitHub
+## <code>05</code> GitHub
 
 <p align="center">
-  <strong>📊 Stats</strong>
+  <strong>Stats</strong>
 </p>
 
 <p align="center">
@@ -192,7 +192,7 @@ I'm **available for any project** and **available right now for mobile work**. I
 </p>
 
 <p align="center">
-  <strong>📈 Top languages</strong>
+  <strong> Top languages</strong>
 </p>
 
 <p align="center">
@@ -200,7 +200,7 @@ I'm **available for any project** and **available right now for mobile work**. I
 </p>
 
 <p align="center">
-  <strong>🔥 Streak</strong>
+  <strong> Streak</strong>
 </p>
 
 <p align="center">
