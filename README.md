@@ -18,7 +18,7 @@
 ## <code>01</code> About
 
 **Who I am**  
-I'm **Andassa** — a Fullstack and mobile developer who **ships**. I don't just write code; I turn ideas into products. Web apps, mobile apps, APIs, dashboards, automation, or AI-powered tools — I build them with you, end to end. From Flutter to Next.js, Express to FastAPI, MongoDB to PostgreSQL, Docker to AWS, I cover the full stack so you can focus on *what* to build, not *how*.
+I'm **Andassa** — a  Fullstack and mobile developer who **ships**. I don't just write code; I turn ideas into products. Web apps, mobile apps, APIs, dashboards, automation, or AI-powered tools — I build them with you, end to end. From Flutter to Next.js, Express to FastAPI, MongoDB to PostgreSQL, Docker to AWS, I cover the full stack so you can focus on *what* to build, not *how*.
 
 **Why work with me**  
 I learn fast and adapt faster. New language? New framework? Tight deadline? I get up to speed and deliver. I've proven it on HackerRank and CodinGame, and I bring the same drive to real projects: clean code, clear communication, and a focus on **shipping**. I'm not here to take a brief and disappear — I'm here to make your product happen and your users happy.
