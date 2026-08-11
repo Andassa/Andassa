@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=420&lines=Andassa+Mity;Fullstack+%26+Mobile+Developer;I+ship.+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Andassa+Mity;Full-Stack+%26+Mobile+Developer;I+ship." alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -9,8 +8,6 @@
 
 <br>
 
----
-
 <table>
 <tr>
 <td>
@@ -18,7 +15,7 @@
 ## <code>01</code> About
 
 **Who I am**  
-I'm **Andassa** — a  Fullstack and mobile developer who **ships**. I don't just write code; I turn ideas into products. Web apps, mobile apps, APIs, dashboards, automation, or AI-powered tools — I build them with you, end to end. From Flutter to Next.js, Express to FastAPI, MongoDB to PostgreSQL, Docker to AWS, I cover the full stack so you can focus on *what* to build, not *how*.
+I'm **Andassa** — a Full-Stack and mobile developer who **ships**. I don't just write code; I turn ideas into products. Web apps, mobile apps, APIs, dashboards, automation, or AI-powered tools — I build them with you, end to end. From Flutter to Next.js, Express to FastAPI, MongoDB to PostgreSQL, Docker to AWS, I cover the full stack so you can focus on *what* to build, not *how*.
 
 **Why work with me**  
 I learn fast and adapt faster. New language? New framework? Tight deadline? I get up to speed and deliver. I've proven it on HackerRank and CodinGame, and I bring the same drive to real projects: clean code, clear communication, and a focus on **shipping**. I'm not here to take a brief and disappear — I'm here to make your product happen and your users happy.
@@ -39,7 +36,7 @@ I'm **available for any project** and **available right now for mobile work**. I
 
 <img src="Andassa_image.jfif" alt="Andassa Mity" width="280"/>
 
-<sub><b>👋 That's me</b></sub>
+<sub><b>That's me</b></sub>
 
 <img src="téléchargement%20(1).gif" alt="Coding" width="70"/>
 
@@ -47,21 +44,17 @@ I'm **available for any project** and **available right now for mobile work**. I
 </tr>
 </table>
 
----
-
 <br>
 
 ## <code>02</code> Status
 
 <p align="center">
-  <a href="https://andassafanomezantsoa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🟢_Available_for_any_project-Yes-22c55e?style=for-the-badge" alt="Available"/></a>
+  <a href="https://andassafanomezantsoa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Available_for_any_project-Yes-22c55e?style=for-the-badge" alt="Available"/></a>
   &nbsp;&nbsp;
-  <a href="https://andassafanomezantsoa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/📱_Available_now-Mobile_Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile"/></a>
+  <a href="https://andassafanomezantsoa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Available_now-Mobile_Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile"/></a>
 </p>
 
 <br>
-
----
 
 ## <code>03</code> Skills
 
@@ -146,8 +139,6 @@ I'm **available for any project** and **available right now for mobile work**. I
 
 <br>
 
----
-
 ## <code>04</code> Connect
 
 <table>
@@ -179,52 +170,12 @@ I'm **available for any project** and **available right now for mobile work**. I
 
 <br>
 
----
-
-## <code>05</code> GitHub
-
-<p align="center">
-  <strong>Stats</strong>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andassa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="420"/>
-</p>
-
-<p align="center">
-  <strong> Top languages</strong>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andassa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="380"/>
-</p>
-
-<p align="center">
-  <strong> Streak</strong>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Andassa&theme=radical&hide_border=true" alt="GitHub Streak" width="420"/>
-</p>
-
-<p align="center">
-  <strong>📂 Top contributed repos</strong>
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Andassa&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top contributed repos" width="500"/>
-</p>
-
-<br>
-
----
-
-## <code>06</code> — Let's build something
+## <code>05</code> Let's build something
 
 <p align="center">
 
-> **🟢 Available for any project**  
-> **📱 Available right now for mobile**
+> **Available for any project**  
+> **Available right now for mobile**
 
 <br/>
 
@@ -232,16 +183,8 @@ I'm **available for any project** and **available right now for mobile work**. I
 <img src="téléchargement.gif" alt="Let's go" width="500"/>
 </p>
 
-
 <br/>
 
-*Have an idea? Let's talk — no fluff, no delay.* 🔥
-
-</p>
-
-<br>
-
----
-
+*Have an idea? Let's talk — no fluff, no delay.*
 
 </p>
